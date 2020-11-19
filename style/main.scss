@@ -1,0 +1,12 @@
+// Import Bootstrap 4 Library
+@import "../vendor/bootstrap/scss/bootstrap.scss";
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,400;0,600;1,200;1,400;1,600&display=swap");
+
+@import "global";
+@import "navbar";
+
+@import "pages/home";
+@import "pages/detail";
+
+@import "components/article";
+@import "components/breadcrumbs";
